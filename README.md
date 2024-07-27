@@ -1,3 +1,3 @@
-## Projeto de automatização
+## Projetos feito na faculdade com intuito para algum trabalho
 
-Projeto simples feito em VBA para automatização de envio de e-mail, usando multiplas células de excel para preencher e enviar e-mail.
+Aqui tenho tentativas de automação, projetos de finanças, banco de dados e etc.
