@@ -4,7 +4,7 @@ O objetivo principal deste projeto é desenvolver um modelo preditivo capaz de p
 ## Estrutura do Projeto
 O projeto está estruturado da seguinte forma:
 
-1. Coleta de Dados: Nesta etapa, são coletados dados históricos de partidas de League of Legends, incluindo informações sobre equipes, jogadores, composições de equipe, estatísticas de jogo, entre outros.
+1. Coleta de Dados: Nesta etapa, são coletados dados históricos de partidas de League of Legends, incluindo informações sobre equipes, jogadores, composições de equipe, estatísticas de jogo, entre outros através de raspagem de dados(web scraping).
 
 2. Análise Exploratória de Dados (AED): Os dados coletados são explorados para entender sua estrutura e características. Isso inclui análise de distribuições, correlações e visualizações relevantes para identificar padrões e insights.
 
@@ -27,6 +27,7 @@ Seaborn
 Jupyter Notebooks
 
 ## Status
+Projeto em desenvolvimento.
 
 Autor
 [Fabricio Gomes] - [fabricio.gomes@usp.br]
