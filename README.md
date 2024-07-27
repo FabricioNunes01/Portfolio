@@ -1,3 +1,3 @@
-## Portfólio de Projetos
+# Automação de Processos com Python e VBA
 
-Bem-vindo ao meu repositório de portfólio de projetos! Este espaço é dedicado a apresentar diversos projetos que desenvolvi ao longo da minha jornada em Data Science, Machine Learning, e outras áreas relacionadas. Cada projeto contém uma descrição detalhada, os objetivos, as ferramentas e tecnologias utilizadas, além de instruções para replicação e análise.
+Este repositório contém diversos projetos de automação de processos utilizando Python e VBA. Cada projeto aborda uma necessidade específica de automação, como manipulação de planilhas, envio de e-mails, web scraping, entre outros.
